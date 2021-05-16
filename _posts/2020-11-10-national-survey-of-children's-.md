@@ -1,15 +1,15 @@
 ---
 title: >-
-  National Survey of Children's Exposure to Violence II, 1993-2012 [United
+  National Survey of Children's Exposure to Violence III, 1997-2014 [United
   States]
-created: '2020-11-10T16:24:52.062343'
-modified: '2020-12-03T20:22:55.271986'
+created: '2020-11-10T16:24:55.113448'
+modified: '2020-12-03T20:23:04.977836'
 state: active
 type: dataset
 tags:
   - Not Given
 groups: []
-csv_url: 'http://doi.org/10.3886/ICPSR36177.v1'
+csv_url: 'http://doi.org/10.3886/ICPSR36523.v1'
 json_url: ''
 layout: post
 
